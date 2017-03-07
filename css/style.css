@@ -1,0 +1,114 @@
+div{
+border:
+}
+
+.header{
+  min-height:200px;
+  text-align:center;
+  padding-top: 40px;
+  padding-bottom: ;
+}
+.about{
+  padding-left: 40px;
+}
+}
+.headtxt{
+  padding-top: 30px;
+}
+.hometxt{
+  padding-left: 10px;
+  padding-right: 70px;
+  font-size: 20px;
+}
+.jumbotron text-center{
+    text-align:center;
+}
+.logo{
+  height:200px;
+  width:350px;
+}
+.home{
+  background-color:rgb(199,156,78);
+  height:497px;
+}
+.app{
+  text-align: right;
+padding-bottom: 30px;
+}
+
+.crab{
+  margin-left:20px;
+  height:300px;
+  width:350px;
+}
+.entree{
+  text-align: right;
+  padding-bottom: 30px;
+
+}
+.lobs{
+  margin-left: 20px;
+  height: 300px;
+  width:400px;
+}
+.dessert{
+  text-align: right;
+  padding-bottom: 30px;
+
+}
+.cake{
+  margin-left: 20px;
+  height:300px;
+  width:350px;
+
+}
+.menbutt{
+  margin-left:300px;
+}
+
+.nav{
+    text-align: center;
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+.header li{
+  color: rgb(232,192,24);
+  display: inline;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.menutitle{
+display: inline;
+text-align: center;
+}
+
+.sub text-center{
+  text-align: center;
+}
+.set-height{
+  height: 500px;
+}
+.abouttitle{
+color:rgb(232,192,24);
+
+}
+.aboutimg{
+height: 500px;
+width: 370px;
+
+}
+.pa{
+width: 200px;
+height:500px;
+}
+.specials{
+  align: center;
+  height: 550px;
+  width: 550px;
+
+}
